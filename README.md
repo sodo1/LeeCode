@@ -1,0 +1,2 @@
+# LeeCode
+leecode learning notes
