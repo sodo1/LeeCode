@@ -127,7 +127,7 @@ int main()
     }
 }
 ```
-### 二位数组定义
+### 二维数组定义
 ```cpp
 #include<string.h>
 #include<vector>
